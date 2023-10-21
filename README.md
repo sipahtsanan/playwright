@@ -18,10 +18,9 @@ To verify that signing up for an 'X' account was unsuccessful in case a user tap
 
 
 ### Installation
-1. Go to Automation directory `cd "2.1 Automation Test by Cypress"`
-2. Install nodejs `brew install node`
-3. Check node version `node -v`
-4. Install Playwright `npm init playwright@latest`
+1. Install nodejs `brew install node`
+2. Check node version `node -v`
+3. Install Playwright `npm init playwright@latest`
 
 ### Run the project
 ```bash
